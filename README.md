@@ -1,0 +1,1 @@
+Alexa skill based on the decision template. It asks you few questions and lets you know what country might be best suited for you to live in.
